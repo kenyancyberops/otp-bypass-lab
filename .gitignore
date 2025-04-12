@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+ENV/
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Output and logs
+*.log
+*.out
+
+# Kali Linux-specific
+*.nmap
+*.pcap
+*.pcapng
+
+# Secrets
+config.json
+secrets.txt
